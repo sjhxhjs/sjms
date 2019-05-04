@@ -1,3 +1,5 @@
+package test;
+
 import main.ConcreteStrategy1;
 import main.Context;
 import main.Strategy;
